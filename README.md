@@ -1,21 +1,12 @@
-# 👨‍💻 Gustavo Amaral
+# 👨‍💻 Gustavo Amaral <a href="https://www.linkedin.com/in/gustavo-amaral-97ab05224"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
 
-**`Graduado em Engenharia de Controle e Automação`**
-
-**`Desenvolvedor FullStack`**
+**`Graduado em Engenharia de Controle e Automação`** **`Desenvolvedor FullStack`**
 
 Desenvolvedor com base sólida em Engenharia de Controle e Automação pela UNIFEI e especialização em Python. Possuo bastante experiência prática como FullStack, dominando tecnologias de Frontend (HTML, CSS, JavaScript e etc.) para a entrega de aplicações completas e funcionais. No entanto, minha maior expertise e foco de atuação estão no Backend e na Automação de Processos. 
 
 Tenho um histórico de desenvolvimento de scripts para otimização de fluxos, integração de aplicações via APIs e automação industrial e de biorreatores. Busco constantemente aplicar meu raciocínio lógico apurado e agilidade de aprendizado para resolver desafios tecnológicos, seja automatizando fluxos de dados ou desenvolvendo sistemas robustos e escaláveis.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/gustavo-amaral-97ab05224">
-        <img 
-            alt="LinkedIn"
-            title="Conecte-se comigo no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B500-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
-        />
-    </a>
     <a href="https://github.com/GuAmarl?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
