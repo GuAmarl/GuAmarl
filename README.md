@@ -2,9 +2,15 @@
 
 **`Graduado em Engenharia de Controle e Automação`** **`Desenvolvedor FullStack`**
 
-Desenvolvedor com base sólida em Engenharia de Controle e Automação pela UNIFEI e especialização em Python. Possuo bastante experiência prática como FullStack, dominando tecnologias de Frontend (HTML, CSS, JavaScript e etc.) para a entrega de aplicações completas e funcionais. No entanto, minha maior expertise e foco de atuação estão no Backend e na Automação de Processos. 
+Sou Engenheiro de Controle e Automação pela UNIFEI e Desenvolvedor Python, com experiência profissional em desenvolvimento de software, Full Stack, automação de processos, APIs, integração de sistemas e análise de dados.
 
-Tenho um histórico de desenvolvimento de scripts para otimização de fluxos, integração de aplicações via APIs e automação industrial e de biorreatores. Busco constantemente aplicar meu raciocínio lógico apurado e agilidade de aprendizado para resolver desafios tecnológicos, seja automatizando fluxos de dados ou desenvolvendo sistemas robustos e escaláveis.
+Atuo no desenvolvimento de aplicações e soluções de software utilizando principalmente Python, Flask, JavaScript, HTML, CSS, Jinja2 e SQL. Ao longo da minha experiência, desenvolvi soluções para diferentes desafios de automação, dados e integração de sistemas, incluindo projetos nos setores de pesquisa, biotecnologia e automação industrial.
+
+Meu foco é transformar processos manuais, complexos e demorados em soluções de software automatizadas, confiáveis e fáceis de utilizar. Em projetos de dados e automação, desenvolvi aplicações que reduziram tarefas de aproximadamente 1 dia para cerca de 2 minutos, aumentando a confiabilidade das informações e acelerando a tomada de decisões.
+
+Um dos principais projetos foi o Capivara, uma aplicação Web Full Stack desenvolvida com Python e Flask para automatizar a geração de receitas complexas para biorreatores. Um processo que podia levar cerca de 1 semana passou a ser realizado pelos próprios usuários em aproximadamente 5 minutos, sem necessidade de conhecimento em programação.
+
+Tenho interesse em oportunidades em Desenvolvimento Backend, Engenharia de Software, Python, APIs, Cloud, automação e soluções orientadas a dados, estando aberto a diferentes setores e desafios tecnológicos.
 
 <p align="left">
     <a href="https://github.com/GuAmarl?tab=repositories&sort=stargazers">
